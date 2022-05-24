@@ -23,12 +23,3 @@ this is test1 repository
 
 "c"
 
-1111
-
-
-2222
-
-
-3333
-
-
